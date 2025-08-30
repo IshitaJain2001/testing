@@ -5,9 +5,17 @@
     
     fn()
    return (
-     <div>Child</div>
+     <div>home </div>
    )
  }
  
 
   export default React.memo(Child)
+
+
+ // git init 
+//  git add . 
+// git commit -m ""
+//git branch -M main
+// remote origin
+//git push -u origin main
